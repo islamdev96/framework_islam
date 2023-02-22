@@ -9,6 +9,8 @@ class AdsManager {
 
   static String get bannerAdUnitId {
     if (testMode == true) {
+      // testMode == true
+
       return 'ca-app-pub-5357673439440811/8462987028';
     } else if (Platform.isAndroid) {
       return 'ca-app-pub-5357673439440811/8462987028';
