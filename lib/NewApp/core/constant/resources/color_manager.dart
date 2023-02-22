@@ -21,4 +21,5 @@ class ColorManager {
   static Color containacolor1 = const Color(0xffFF87C4);
   static Color containacolor2 = const Color(0xff709AFF);
   static Color containacolor3 = const Color(0xff66FFA3);
+  static Color containacolor4 = const Color(0xffFFC87C);
 }
